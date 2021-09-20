@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ipldekh.xyz	TRUE	/	FALSE	1999999999	ipldekh_xyz	d7d6241e16cdf1cbb4f8caf040163d08
+
